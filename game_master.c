@@ -58,7 +58,7 @@ for(i=4;i<76;i++)
 for(j=3;j<=23;j++)
 {gotoxy(3,j);printf("|");gotoxy(76,j);printf("|");}
 gotoxy(5,1);printf("score=0   ");
-gotoxy(50,24);printf("devolped by earnest");
+gotoxy(50,24);printf("devolped by NightBaron");
 x=0;
 i=10;j=10;m=1;
 for(n=0;n<5;n++)
